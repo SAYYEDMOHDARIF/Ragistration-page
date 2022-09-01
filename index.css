@@ -1,0 +1,92 @@
+body
+{
+  background-color:#E8F9FD
+
+}
+
+.sec
+{
+  margin-top: 10px;
+
+}
+h1
+{
+  text-align:center;
+  font-family: serif;
+
+}
+hr
+{
+  width: 900px;
+  border-style: solid;
+  border-color: white;
+}
+.container
+{
+  margin: auto;
+  width: 1000px;
+  height: 1300px;
+  background-color: #E9DAC1;
+  border-radius: 10px;
+  border:5px;
+  border-style: solid;
+  border-color: black;
+}
+.form
+{
+  margin-left: 75px;
+}
+.al,.re
+{
+  width: 850px;
+  height: 50px;
+  margin-top: 10px;
+  margin-bottom: 10px;
+  border-style: solid;
+  border-color: green;
+  border-radius: 5px;
+  border-width: 3px;
+  font-size:15px;
+  font-family: serif;
+}
+.re
+{
+  background-color: #7FB77E;
+  color: white;
+  font-size: 20px;
+}
+.tex
+{
+  font-size: 20px;
+  font-family: serif;
+  font-weight: bold;
+
+}
+.name1
+{
+  border-color: green;
+  border-width: 3px;
+  border-radius: 5px;
+}
+.cour
+{
+  margin-top: 10px;
+  font-size:15px;
+  border-radius: 5px;
+  border-color: green;
+  border-width: 3px;
+}
+.tex1
+{
+
+  font-size: 20px;
+
+  font-weight:bold;
+
+}
+.marq
+{
+  font-family: serif;
+  color: red;
+  font-size: 30px;
+}
